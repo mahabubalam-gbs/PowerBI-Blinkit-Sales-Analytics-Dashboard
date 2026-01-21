@@ -82,5 +82,6 @@ Power BI – Data modeling, DAX, and dashboard creation
 
 Data Visualization – Interactive charts and KPI cards
 
-##📸 Project Screenshots
+## 📸 Project Screenshots
 ![Blinkit Sales Analysis Dashboard](images/blinkit_dashboard.JPG)
+
